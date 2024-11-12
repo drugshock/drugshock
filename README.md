@@ -24,9 +24,9 @@ Solana is one of the most innovative blockchains, known for its ultra-low transa
 I'm always open to feedback, suggestions, or just chatting about the future of Solana and DeFi. Feel free to connect with me through the following channels:
 
 GitHub Discussions: Let’s talk!
-Telegram: (@midaBricoll)[https://t.me/midaBricoll]
-Twitter: (dieharye)[https://dieharye]
-Discord:dieharye
+Telegram: https://t.me/midaBricoll
+Twitter: https://dieharye
+Discord: dieharye
 
 💡 Let’s Build Together
 I’m always looking for talented developers and blockchain enthusiasts who want to collaborate on new projects. If you have an idea, bug fix, or feature request, I welcome contributions. Feel free to explore my repos, fork them, and open a pull request. Let’s make the Solana ecosystem even better, one bot at a time!
